@@ -1,12 +1,16 @@
 ## Microsoft-Translator
 
-收藏小便便签
+收藏便签网址
 
 ```
 javascript:(function(){var s = document.createElement('script'); s.type = 'text/javascript'; s.src = 'https://anla.io/tao/tao.js'; document.body.insertBefore(s, document.body.firstChild);})()
 ```
 
+
+
 把 `Translator.js` 发布到服务器上 
+
+把如上收藏便签代码的 `https://anla.io/tao/tao.js` 改为服务器发布的地址
 
 切记 `Translator.js` 存放的 `url` 地址一定是 `https` 协议
 
